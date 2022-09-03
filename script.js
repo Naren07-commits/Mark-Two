@@ -128,7 +128,5 @@ if (totalScore > 7) {
     "Keep it up, one day you will succeed !!! Your Total Score is:" + totalScore
   );
 } else {
-  console.log(
-    "Chulu bhaar pani dubb mar jao !! Your Total Score is:" + totalScore
-  );
+  console.log("Please Try Again !! Your Total Score is:" + totalScore);
 }
